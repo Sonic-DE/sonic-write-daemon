@@ -2,7 +2,7 @@
 
 A small background service that shows messages sent to your session by other users or the system as desktop notifications.
 
-## Unreleased
+## 6.8.2 (2026-11-10)
 
 - Now presents itself with SonicDE names and identity throughout the desktop.
 
